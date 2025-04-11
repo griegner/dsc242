@@ -1,5 +1,5 @@
 ## DSC 242 - High-Dimensional Probability and Statistics
 > probabilistic inequalities, least squares, lasso, covariance estimation, sparse precision matrices
 
-[project slides](./project/slides.pdf)  
-[project presentation](https://www.youtube.com/watch?v=H2vBrh643CE)
+[![slides](https://img.shields.io/badge/slides-PDF-red?style=flat&logo=google-slides&logoColor=white)](https://griegner.github.io/dsc242/slides.pdf)
+[![presentation](https://img.shields.io/badge/presentation-PDF-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=H2vBrh643CE)
